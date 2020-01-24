@@ -85,7 +85,7 @@ header nav a {
 	font-size: 90px;
 }
 
-/* .box-1 button {
+.box-1 button {
 	font-size: 20px;
 	text-decoration: none;
 	padding: 15px 32px;
@@ -93,7 +93,7 @@ header nav a {
 	background-color: white;
 	margin: 3% 0;
 
-} */
+}
 
 .first-section {
 	display: flex;
@@ -154,6 +154,7 @@ h2 {
 
 footer {
 	text-align: center;
+	margin: 3% 3%;
 }
 
 .black-line {
